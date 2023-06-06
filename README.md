@@ -3,11 +3,11 @@
 Hello! This is a project the I have been working on for a while. It’s a small social media app designed for posting anything. This application leverages a range of Firebase web technologies to power its functionality. Please note that the app is currently undergoing continuous development and improvements.
 
 ### Application features:
-User login and sign up
-Add a profile image
-Update account details (change password, email, and name)
-Publish a post
-Comment on a post.
+* User login and sign up
+* Add a profile image
+* Update account details (change password, email, and name)
+* Publish a post
+* Comment on a post.
 
 ## Available Scripts
 
