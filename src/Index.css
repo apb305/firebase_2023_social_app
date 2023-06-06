@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Password Show Toggle */
+
+.icon-div {
+  position: relative;
+}
+
+.password-icon {
+  position: absolute;
+  bottom: 10px;
+  right: 10px
+}
