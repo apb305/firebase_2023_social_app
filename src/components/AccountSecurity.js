@@ -60,8 +60,7 @@ function AccountSecurity() {
                   <i
                     className={
                       showPassword
-                        ? "fa fa-eye password-icon"
-                        : "fa fa-eye-slash password-icon"
+                        ? "fa fa-eye-slash password-icon" : "fa fa-eye password-icon"
                     }
                     aria-hidden="true"
                   ></i>
@@ -84,8 +83,7 @@ function AccountSecurity() {
                   <i
                     className={
                       showPasswordTwo
-                        ? "fa fa-eye password-icon"
-                        : "fa fa-eye-slash password-icon"
+                        ? "fa fa-eye-slash password-icon" : "fa fa-eye password-icon"
                     }
                     aria-hidden="true"
                   ></i>
